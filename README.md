@@ -35,7 +35,7 @@
 <!-- OVERVIEW -->
 
 ## Overview
-![alt text](https://github.com/[RahmaaEsmail]/[Dev_Challanges-RWD-]/blob/[main]/imgs/not-found-img.png/.png?raw=true)
+![alt text](https://github.com/[RahmaaEsmail]/[Dev_Challanges-RWD-]/blob/[../imgs/not-found-img.png]/image.png?raw=true)
 ![screenshot](https://user-images.githubusercontent.com/imgs/not-found-img.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
