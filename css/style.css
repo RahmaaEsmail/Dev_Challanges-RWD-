@@ -48,3 +48,15 @@ button {
     font-size: 1.4rem;
     line-height: 2.1rem;
 }
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 3.2rem;
+}
+
+footer p {
+    font-size: 1.4rem;
+    line-height: 1.7rem;
+}
